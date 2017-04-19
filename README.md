@@ -1,0 +1,2 @@
+# jsblu
+java script exercises
