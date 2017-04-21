@@ -23,3 +23,5 @@ if (elUsername.addEventListener) { // If event listener is supported
         checkLength(e, 5); // Call checkLength
     });
 }
+
+// re #hash
