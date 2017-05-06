@@ -1,12 +1,4 @@
-# app1
+# JAVASCRIPT & JQUERY by Jon Duckett
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+This repo just contains exersise files form the Wiley book and various other ad hoc experiments.
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
