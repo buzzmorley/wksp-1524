@@ -1,4 +1,5 @@
-// Generated on 2016-10-04 using generator-angular 0.15.1
+/*eslint-env node */
+grunt test// Generated on 2016-10-04 using generator-angular 0.15.1
 'use strict';
 
 // # Globbing
